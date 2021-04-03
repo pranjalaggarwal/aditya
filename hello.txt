@@ -1,3 +1,7 @@
 Hello my name is aditya aggarwal
 I am learning Git and Github from Telusko learning.
+
+I live in Nangal.
 I am here to see how a pull request is done.
+
+Hello aditya here again but from my own account this time.
